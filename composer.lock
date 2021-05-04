@@ -1,0 +1,63 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b5b5cd71524994bd8c23ff05fa08302a",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "joseph-montanez/raylib-php-stub",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/joseph-montanez/RayLib-PHP-Stubs.git",
+                "reference": "08765decfbfacb4602ddc92cbcabb13971056533"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/joseph-montanez/RayLib-PHP-Stubs/zipball/08765decfbfacb4602ddc92cbcabb13971056533",
+                "reference": "08765decfbfacb4602ddc92cbcabb13971056533",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4.0"
+            },
+            "default-branch": true,
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Zlib"
+            ],
+            "description": "Raylib runtime & extensions header files for PhpStorm",
+            "homepage": "https://www.raylib.com",
+            "keywords": [
+                "autocomplete",
+                "code",
+                "inference",
+                "inspection",
+                "jetbrains",
+                "phpstorm",
+                "raylib",
+                "stubs",
+                "type"
+            ],
+            "support": {
+                "issues": "https://github.com/joseph-montanez/RayLib-PHP-Stubs/issues",
+                "source": "https://github.com/joseph-montanez/RayLib-PHP-Stubs/tree/master"
+            },
+            "time": "2021-03-21T09:38:49+00:00"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "joseph-montanez/raylib-php-stub": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "joseph-montanez/raylib-php-stub": "dev-master"
+    }
+}
